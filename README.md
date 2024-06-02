@@ -85,6 +85,7 @@ How to Play
     Click the "Play" button.
     The computer will randomly choose Rock, Paper, or Scissors.
     The result of the game will be displayed on the screen.
+    The game URL is : https://serene-peak-21938-c94ee5dced7d.herokuapp.com/
 
 Contributing
 
