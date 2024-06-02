@@ -95,4 +95,7 @@ License
 This project is licensed under the MIT License. See the LICENSE file for details.
 Contact
 
-For any questions or feedback, feel free to contact me at [your email address].
+For any questions or feedback, feel free to contact me at: 
+
+Linkedin : https://www.linkedin.com/feed/
+Email : ibrahim.umar.cisse@gmail.com
