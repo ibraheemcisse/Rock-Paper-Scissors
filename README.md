@@ -63,19 +63,13 @@ heroku login
 
 Create a new Heroku application:
 
-bash
-
-heroku create
+      heroku create
 
 Deploy the application to Heroku:
 
-bash
-
-git push heroku main
-
+    git push heroku main
+    
 Open the deployed application:
-
-bash
 
     heroku open
 
