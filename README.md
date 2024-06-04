@@ -53,14 +53,14 @@ Running the Application
 
 Deploying to Heroku
 
-This application can be deployed to Heroku. Follow these steps:
+This application can be deployed to Heroku. 
 
-    Log in to Heroku using the Heroku CLI:
+Follow these steps:
 
-    bash
+Log in to Heroku using the Heroku CLI:
 
-heroku login
-
+    heroku login
+  
 Create a new Heroku application:
 
       heroku create
@@ -77,6 +77,7 @@ How to Play
 
     Choose Rock, Paper, or Scissors from the dropdown menu.
     Click the "Play" button.
+    heroku login
     The computer will randomly choose Rock, Paper, or Scissors.
     The result of the game will be displayed on the screen.
     The game URL is : https://serene-peak-21938-c94ee5dced7d.herokuapp.com/
