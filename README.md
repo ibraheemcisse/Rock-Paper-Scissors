@@ -1,4 +1,3 @@
-
 # Rock-Paper-Scissors Game
 
 Welcome to Ibrahim's Rock Paper Scissors Game!
@@ -24,33 +23,29 @@ To run this application, you need to have the following installed on your local 
 
 1. Clone this repository to your local machine:
 
-   ```bash
+```
    git clone https://github.com/ibraheemcisse/Rock-Paper-Scissors.git
    cd Rock-Paper-Scissors
 
-    Create a virtual environment and activate it:
+```
+2. Create a virtual environment and activate it:
 
-    bash
-
-python -m venv venv
-source venv/bin/activate   # On Windows, use `venv\Scripts\activate`
+   ```
+   python -m venv venv
+   source venv/bin/activate   # On Windows, use `venv\Scripts\activate`
 
 Install the required dependencies:
 
-bash
-
     pip install -r requirements.txt
 
-Running the Application
-
-    Run the Flask application:
-
-    bash
+Run the Flask application:
 
     python app.py
 
-    Open your web browser and go to http://127.0.0.1:5000/ to play the game.
-
+Open your web browser and go to the URL below to play the game: 
+  
+    https://serene-peak-21938-c94ee5dced7d.herokuapp.com/
+   
 Deploying to Heroku
 
 This application can be deployed to Heroku. 
@@ -80,7 +75,7 @@ How to Play
     heroku login
     The computer will randomly choose Rock, Paper, or Scissors.
     The result of the game will be displayed on the screen.
-    The game URL is : https://serene-peak-21938-c94ee5dced7d.herokuapp.com/
+    The game URL is : 
 
 Contributing
 
