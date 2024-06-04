@@ -41,10 +41,6 @@ Install the required dependencies:
 Run the Flask application:
 
     python app.py
-
-Open your web browser and go to the URL below to play the game: 
-  
-    https://serene-peak-21938-c94ee5dced7d.herokuapp.com/
    
 Deploying to Heroku
 
@@ -74,6 +70,10 @@ How to Play
     Click the "Play" button.
     The computer will randomly choose Rock, Paper, or Scissors.
     The result of the game will be displayed on the screen.
+
+Open your web browser and go to the URL below to play the game: 
+  
+    https://serene-peak-21938-c94ee5dced7d.herokuapp.com/
     
 Contributing
 
