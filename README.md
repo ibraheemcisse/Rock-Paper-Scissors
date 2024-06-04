@@ -74,8 +74,7 @@ How to Play
     Click the "Play" button.
     The computer will randomly choose Rock, Paper, or Scissors.
     The result of the game will be displayed on the screen.
-    The game URL is : 
-
+    
 Contributing
 
 If you would like to contribute to this project, please fork the repository and create a pull request with your changes.
