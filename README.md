@@ -72,7 +72,6 @@ How to Play
 
     Choose Rock, Paper, or Scissors from the dropdown menu.
     Click the "Play" button.
-    heroku login
     The computer will randomly choose Rock, Paper, or Scissors.
     The result of the game will be displayed on the screen.
     The game URL is : 
